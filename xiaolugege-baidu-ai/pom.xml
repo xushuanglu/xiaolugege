@@ -7,9 +7,7 @@
     <artifactId>xiaolugege</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.xlgg</groupId>
   <artifactId>xiaolugege-baidu-ai</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>xiaolugege-baidu-ai</name>
   <url>http://maven.apache.org</url>
   <properties>

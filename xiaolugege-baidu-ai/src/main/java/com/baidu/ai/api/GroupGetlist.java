@@ -19,7 +19,7 @@ public class GroupGetlist {
     * https://ai.baidu.com/file/470B3ACCA3FE43788B5A963BF0B625F3
     * 下载
     */
-    public static String GroupGetlist() {
+    public static String GroupGetList() {
         // 请求url
         String url = "https://aip.baidubce.com/rest/2.0/face/v3/faceset/group/getlist";
         try {
@@ -42,7 +42,7 @@ public class GroupGetlist {
     }
 
     public static void main(String[] args) {
-        GroupGetlist.GroupGetlist();
+        GroupGetlist.GroupGetList();
     }
 }
 
